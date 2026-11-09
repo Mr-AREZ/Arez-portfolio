@@ -1,5 +1,5 @@
-<img src="../assets/Images/EnSitePov.PNG" alt="">
-<img src="../assets/Images/FaSitePov.PNG" alt="">
+<img src="/assets/Images/EnSitePov.PNG" alt="">
+<img src="/assets/Images/FaSitePov.PNG" alt="">
 
 Live : https://mr-arez.github.io/Arez-portfolio
 
