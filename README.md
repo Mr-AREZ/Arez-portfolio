@@ -1,42 +1,69 @@
+# AREZ | Personal Portfolio
 
- Live : https://mr-arez.github.io/Arez-portfolio
+A personal portfolio website showcasing my professional profile, technical skills, selected projects, and experience in web development, SEO, and business development.
 
-# Portfolio: Amirreza Arezoumand
+🌐 **Live Demo:** [mr-arez.github.io/Arez-portfolio](https://mr-arez.github.io/Arez-portfolio/)
 
-Plain HTML, CSS and JavaScript. No build step. Layout and style follow the "Portfolio (Community)" Figma file.
+## About
 
-## Structure
+I'm Amirreza Arezoumand, a Web Developer, SEO Specialist, and Business Development Consultant passionate about building modern digital experiences and helping businesses establish a strong online presence.
 
+This portfolio represents my professional journey, technical capabilities, and selected projects.
+
+## Features
+
+- Modern and clean user interface
+- Responsive website layout
+- Bilingual support (English & Persian)
+- Language switching functionality
+- Personal profile and professional introduction
+- Dedicated projects showcase
+- Skills and technology overview
+- Contact section
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- GitHub Pages
+
+## Project Structure
+
+```text
+Arez-portfolio/
+│
+├── assets/
+│   └── Images/
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── i18n.js
+│
+├── index.html
+├── README.md
+└── .gitignore
 ```
-index.html  projects.html  about.html  contacts.html  404.html
-css/style.css
-js/i18n.js      EN / FA texts (add or edit translations here)
-js/main.js      language switcher (RTL for FA), mobile menu, icons, contact form
-assets/         logo, favicon, placeholder images (replace with real ones)
-sitemap.xml  robots.txt  CNAME  .nojekyll
-```
 
-## Things to replace
+## Featured Projects
 
-1. **Contact form:** create a free form at formspree.io, then set `formEndpoint` at the top of `js/main.js`.
-2. **Photo:** replace `assets/portrait-placeholder.svg` (or change the `src` in the HTML files).
-3. **Projects:** edit the cards in `index.html` and `projects.html` (title key `proj.nameN`, tags, links) and the texts in `js/i18n.js`.
-4. **About text and quote:** `about.p1`, `about.p2`, `quote.text`, `quote.author` in `js/i18n.js`.
+### Safir Sazan Real Estate
+A professional real estate website developed for a real estate consultancy based in Lahijan, Iran.
 
-## Language
+### Sarzamin Royayi
+A travel and tourism website project focused on presenting travel services and tour experiences.
 
-The first visit uses the browser language (Persian browsers get FA, all others EN). The choice is remembered in `localStorage`.
-Fonts: Fira Code (English), Vazirmatn (Persian), loaded from Google Fonts.
+## Contact
 
-## Deploy on GitHub Pages with arezcompany.ir
+**Amirreza Arezoumand**
 
-1. Create a repository, push all files to the root of the `main` branch.
-2. Repository Settings → Pages → Source: `main` / root. Custom domain: `arezcompany.ir` (the `CNAME` file already contains it). Enable "Enforce HTTPS" once the certificate is ready.
-3. At your domain's DNS panel add:
-   - four `A` records for `@` pointing to `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
-   - a `CNAME` record for `www` pointing to `<your-github-username>.github.io`
-4. DNS can take from a few minutes to a day. Check the current GitHub Pages IPs in GitHub's docs if something does not resolve.
+- Email: mr.arez.developer@gmail.com
+- GitHub: [@Mr-AREZ](https://github.com/Mr-AREZ)
+- Portfolio: [AREZ Portfolio](https://mr-arez.github.io/Arez-portfolio/)
 
-## Local preview
+---
 
-Open `index.html` in a browser, or run `python3 -m http.server` in this folder.
+© 2026 Amirreza Arezoumand. All Rights Reserved.
