@@ -1,3 +1,8 @@
+<img src="./assets/Images/EnSitePov.PNG" alt="">
+<img src="./assets/Images/FaSitePov.PNG" alt="">
+
+Live : https://mr-arez.github.io/Arez-portfolio
+
 # Portfolio: Amirreza Arezoumand
 
 Plain HTML, CSS and JavaScript. No build step. Layout and style follow the "Portfolio (Community)" Figma file.
