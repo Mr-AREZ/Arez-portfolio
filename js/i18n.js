@@ -36,8 +36,8 @@
 
     "about.title": "about-me",
     "about.sub": "Who am I?",
-    "about.p1": "Hello, I'm Amirreza! This is a sample text. Replace it with a short introduction about yourself: who you are, where you live and how long you have been writing code.",
-    "about.p2": "Add a second paragraph here about what you enjoy building, the technologies you are learning and the kind of work you are open to.",
+    "about.p1": "I am a Web Developer, SEO Specialist, and Business Development Consultant with a strong passion for building, growing, and establishing credible brands.",
+    "about.p2": "My passion for web development goes beyond creating visually appealing pages. My goal is to build powerful digital platforms that showcase businesses, establish user trust, and turn website visitors into real customers.",
     "about.btn": "Read more",
 
     "contacts.title": "contacts",
@@ -99,8 +99,8 @@
 
     "about.title": "درباره‌من",
     "about.sub": "من کیستم؟",
-    "about.p1": "سلام، من امیررضا هستم! این یک متن نمونه است. آن را با یک معرفی کوتاه از خودت جایگزین کن: کی هستی، کجا زندگی می‌کنی و چند وقته کد می‌نویسی.",
-    "about.p2": "اینجا پاراگراف دوم را اضافه کن: به چه چیزهایی علاقه داری، چه فناوری‌هایی را یاد می‌گیری و چه نوع کارهایی را می‌پذیری.",
+    "about.p1": "من یک توسعه‌دهنده وب، متخصص سئو و مشاور توسعه کسب‌وکار هستم که اشتیاق زیادی به ساخت، رشد و تثبیت برندهای معتبر دارم.",
+    "about.p2": "علاقه و اشتیاق من به توسعه وب فراتر از طراحی صفحات زیبا و چشم‌نواز است. هدف من ساخت پلتفرم‌های دیجیتال قدرتمندی است که کسب‌وکارها را به بهترین شکل معرفی کنند، اعتماد کاربران را جلب کنند و بازدیدکنندگان وب‌سایت را به مشتریان واقعی تبدیل کنند.",
     "about.btn": "ادامه مطلب",
 
     "contacts.title": "تماس",
